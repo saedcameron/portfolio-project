@@ -1,0 +1,123 @@
+* .header {
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px;
+    border-style: inset;
+    border-color: red;
+}
+
+body {
+    background-color: #4a5679;
+}
+
+
+
+.header h2 {
+    display: inline-block;
+    font-size: 30px;
+    color: silver;
+    border-style: inset;
+    border-color: red;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    height: 62px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    border-style: inset;
+    border-color: red;
+    color: silver;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.awesomePics {
+    width: 11%;
+    margin: 52px;
+    display: block;
+    border-style: inset;
+    border-color: red;
+}
+
+.about-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red;
+    color: white;   
+}
+
+.flowerPics {
+    width: 7%;
+    margin: -13px;
+    display: block;
+    border-style: inset;
+    border-color: purple;
+
+}
+
+.my-work {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red;
+    color: #ffffff;
+    display: block;
+}
+
+.horiPic {
+    width: 833px; 
+    height: 225px;
+    display: flex;
+    border-style: inset;
+}
+
+
+.column {
+    float: left;
+    width: 463px;
+    padding: 5px;
+
+  }
+
+  .awesomePics {
+    width: 100px;
+    padding: 0px;
+    height: 266px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red;
+    color: #ffffff;
+
+  }
+
+  .contact-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red;
+    color: #ffffff;
+    position: absolute;
+    bottom: -1440px;
+}
