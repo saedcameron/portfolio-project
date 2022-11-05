@@ -1,0 +1,1 @@
+This my  portfolio of work that showcases my skills and talents to employers looking to fill a part-time or full-time position. It's an effective portfolio that highlights your my work as well as the thought processes behind it. Usually those who have portfolios with deployed web applications are typically very successful in their career search after the boot camp.
